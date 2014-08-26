@@ -1,0 +1,91 @@
+country,status,minrply,avgrply,maxrply,dnsresults
+Australia - Perth (auper01),Okay,52.26,52.475,52.721,162.159.245.238
+Australia - Brisbane (aubne01),Okay,12.789,12.886,13.016,2400:cb00:2048:1::a29f:f5ee
+Argentina - Buenos Aires (arbue01),Okay,122.866,131.017,150.523,162.159.245.238
+U.S.A. - Atlanta (usatl02),Okay,0.247,0.59,1.175,162.159.244.238
+Brazil - Sao Paulo (brsao03),Okay,8.338,8.64,8.842,162.159.245.238
+Brazil - Porto Alegre (brpoa01),Okay,17.68,17.88,18.294,162.159.244.238
+Brazil - Rio de Janeiro (brrio01),Okay,112.706,114.113,121.151,162.159.245.238
+Canada - Vancouver (cavan02),Okay,3.56,3.674,4.156,2400:cb00:2048:1::a29f:f5ee
+Belgium - Antwerp (beanr02),Okay,3.372,3.608,4.05,162.159.244.238
+Bulgaria - Sofia (bgsof01),Okay,28.092,28.286,28.438,162.159.245.238
+India - Bangalore (inblr01),Okay,76.016,77.162,82.225,162.159.245.238
+U.S.A. - Boulder (uswbu01),Okay,21.153,21.582,22.101,162.159.245.238
+U.S.A. - Boston (usbos01),Okay,6.786,6.824,6.893,162.159.245.238
+Canada - Toronto (cator01),Okay,1.447,1.56,1.639,162.159.244.238
+China - Hangzhou (cnhgh01),Okay,175.733,181.222,186.792,162.159.245.238
+U.S.A. - Chicago (uschi04),Okay,88.465,88.597,88.73,162.159.244.238
+U.S.A. - Santa Clara (usscz01),Okay,0.734,0.951,1.644,162.159.244.238
+Switzerland - Zurich (chzrh01),Okay,17.236,19.278,33.192,2400:cb00:2048:1::a29f:f5ee
+U.S.A. - Charlotte (usclt01),Okay,12.394,14.269,17.974,162.159.244.238
+China - Shanghai (cnsha02),Okay,212.399,234.228,246.376,162.159.245.238
+Costa Rica - San Jose (crsjo01),Okay,42.3,42.449,42.521,162.159.244.238
+Canada - Calgary (cacal01),Okay,42.058,42.455,43.852,162.159.244.238
+Czech Republic - Prague (czprg01),Okay,0.407,0.429,0.45,162.159.245.238
+Germany - Munich (demuc01),Okay,8.057,9.762,11.723,2400:cb00:2048:1::a29f:f4ee
+Germany - Cologne (decgn01),Okay,10.028,10.15,10.49,2400:cb00:2048:1::a29f:f5ee
+Germany - Frankfurt (defra02),Okay,0.53,0.619,0.894,162.159.244.238
+Germany - Berlin (deber01),Okay,17.37,17.475,17.617,162.159.244.238
+United Arab Emirates - Dubai (aedxb01),Okay,1519.765,1755.886,1885.54,162.159.245.238
+Ireland - Dublin (iedub02),Okay,13.794,13.836,13.967,162.159.244.238
+Egypt - Cairo (egcai01),Okay,135.196,139.205,152.566,162.159.245.238
+Spain - Madrid (esmad01),Okay,12.588,13.034,14.023,162.159.244.238
+France - Paris (frpar02),Okay,0.424,0.523,0.791,2400:cb00:2048:1::a29f:f4ee
+U.S.A. - Orlando (usorl01),Okay,23.014,23.061,23.161,162.159.245.238
+Greece - Athens (grath01),Okay,43.428,46.718,52.973,2400:cb00:2048:1::a29f:f4ee
+Switzerland - Geneva (chgva01),Okay,10.974,11.085,11.243,162.159.244.238
+China - Hong Kong (hkhkg01),Okay,4.291,13.008,62.944,2400:cb00:2048:1::a29f:f4ee
+Hungary - Budapest (hubud01),Okay,18.839,18.922,19.065,162.159.244.238
+India - Mumbai (inbom02),Okay,94.297,95.034,97.787,162.159.244.238
+India - New Delhi (inicd01),Okay,110.117,110.586,111.733,162.159.244.238
+Italy - Milan (itmil01),Okay,15.106,20.639,48.115,2400:cb00:2048:1::a29f:f4ee
+Indonesia - Jakarta (idjkt02),Okay,13.862,14.352,15.162,162.159.245.238
+Italy - Padova (itpda01),Okay,19.158,19.313,19.585,2400:cb00:2048:1::a29f:f5ee
+Japan - Tokyo (jptok01),Okay,1.593,1.808,2.095,162.159.244.238
+South Africa - Johannesburg (zajnb01),Okay,307.295,312.898,324.707,162.159.244.238
+Denmark - Copenhagen (dkcph02),Okay,9.013,9.034,9.059,2400:cb00:2048:1::a29f:f4ee
+South Korea - Seoul (krsel01),Okay,2.011,2.491,4.679,162.159.244.238
+Ukraine - Kiev (uaiev01),Okay,14.608,14.652,14.691,162.159.245.238
+U.S.A. - Ashburn (usabn06),Okay,1.115,3.099,10.46,162.159.245.238
+Lithuania - Vilnius (ltvno01),Okay,36.042,36.183,36.344,162.159.245.238
+U.S.A. - Los Angeles (uslax02),Okay,0.417,0.439,0.544,162.159.244.238
+Australia - Melbourne (aumel02),Okay,9.972,10.023,10.082,162.159.245.238
+U.S.A. - Miami (usmia01),Okay,0.428,2.161,4.456,162.159.244.238
+Canada - Montreal (camtr02),Okay,18.089,18.221,18.433,2400:cb00:2048:1::a29f:f4ee
+Netherlands - Groningen (nlgrq02),Okay,4.992,5.656,6.703,2400:cb00:2048:1::a29f:f5ee
+New Zealand - Auckland (nzakl03),Okay,24.578,25.908,28.294,162.159.244.238
+Netherlands - Amsterdam (nlams05),Okay,8.484,8.506,8.537,2400:cb00:2048:1::a29f:f4ee
+U.S.A. - New York (usnyc01),Okay,13.884,13.969,14.053,2400:cb00:2048:1::a29f:f4ee
+Norway - Oslo (noosl02),Okay,16.674,18.744,36.887,162.159.245.238
+Poland - Gdansk (plgdn01),Okay,34.798,35.299,36.45,2400:cb00:2048:1::a29f:f4ee
+Panama - Panama City (papty01),Packets lost (10%),35.373,35.585,36.046,162.159.244.238
+U.S.A. - Phoenix (usphx01),Okay,130.967,131.194,131.862,162.159.245.238
+Portugal - Lisbon (ptlis01),Okay,35.978,36.419,37.077,162.159.245.238
+Poland - Warsaw (plwrs01),Okay,91.732,95.339,98.745,162.159.245.238
+U.S.A. - Philadelphia (usphl01),Okay,40.871,212.887,385.751,2400:cb00:2048:1::a29f:f4ee
+U.S.A. - Dallas (usdal01),Okay,2.244,2.699,6.173,162.159.245.238
+U.S.A. - Chicago (uschi02),Okay,1.546,1.702,2.104,2400:cb00:2048:1::a29f:f5ee
+Russia - St. Petersburg (ruled01),Okay,40.67,42.533,51.314,162.159.244.238
+Italy - Rome (itrom01),Okay,20.152,21.484,23.34,162.159.244.238
+Russia - Moscow (rumow02),Okay,42.252,42.361,42.497,162.159.245.238
+Romania - Bucharest (robuh01),Okay,20.623,20.85,21.263,162.159.245.238
+Serbia - Belgrade (rsbeg01),Okay,14.736,14.848,15.049,162.159.244.238
+United Kingdom - Glasgow (gbglw01),Packets lost (20%),27.922,28.513,29.069,162.159.244.238
+U.S.A. - San Diego (ussan01),Okay,21.513,21.664,21.722,162.159.245.238
+Sweden - Stockholm (sesto01),Okay,22.014,22.097,22.166,2400:cb00:2048:1::a29f:f4ee
+U.S.A. - San Francisco (ussfo02),Okay,1.882,1.985,2.092,162.159.244.238
+Singapore - Singapore (sgsin02),Okay,3.473,3.934,4.35,162.159.245.238
+U.S.A. - Salt Lake City (usslc01),Okay,58.634,61.562,64.717,162.159.244.238
+Saudi Arabia - Riyadh (saruh01),Okay,164.533,165.609,166.01,162.159.245.238
+U.S.A. - Austin (usaus02),Okay,5.525,6.011,7.552,2400:cb00:2048:1::a29f:f5ee
+U.S.A. - St. Louis (usstl01),Okay,6.681,6.728,6.834,162.159.245.238
+Finland - Tampere (fitmp02),Okay,10.844,13.704,17.57,162.159.244.238
+Thailand - Bangkok (thbkk02),Okay,28.478,28.639,28.801,162.159.244.238
+Turkey - Istanbul (trist01),Okay,60.121,61.223,67.895,162.159.244.238
+United Kingdom - Manchester (gbmnc01),Packets lost (20%),33.589,36.624,50.939,162.159.245.238
+Ukraine - Kharkov (uahrk02),Okay,32.041,32.147,32.444,162.159.245.238
+United Kingdom - London (gblon01),Okay,1.357,1.952,2.061,2400:cb00:2048:1::a29f:f4ee
+Austria - Vienna (atvie01),Okay,0.83,0.936,1.299,162.159.245.238
+Vietnam - Ho Chi Minh City (vnsgn01),Okay,25.701,26.348,28.651,162.159.245.238
+South Africa - Durban (zadur01),Packets lost (10%),204.694,207.6,212.546,162.159.245.238
+South Africa - Cape Town (zacpt02),Packets lost (10%),176.352,177.038,178.135,162.159.245.238
